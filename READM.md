@@ -6,4 +6,8 @@ Depois faremos isso com o fabric
 
 E ainda replicaremos com azure devops
 
+<<<<<<< HEAD
 E a aula ta incrivel
+=======
+A aula esta realmente incrivel
+>>>>>>> origin/main
