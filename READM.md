@@ -6,3 +6,4 @@ Depois faremos isso com o fabric
 
 E ainda replicaremos com azure devops
 
+A aula esta realmente incrivel
