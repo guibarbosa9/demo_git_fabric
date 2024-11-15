@@ -1,0 +1,74 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 777.68839321103212,
+            "y": 11.12722335912742
+          },
+          "nodeIndex": "calendario",
+          "nodeLineageTag": "bbbef531-0af7-4a64-9eb7-2cde42c59b02",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 650.25904052387716,
+            "y": 332.60262274837947
+          },
+          "nodeIndex": "cotacoes",
+          "nodeLineageTag": "96df9753-67ec-40ab-9049-2cd388b50b0d",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 294.20156119318506,
+            "y": 46.844697959845519
+          },
+          "nodeIndex": "moedas",
+          "nodeLineageTag": "fe4ced72-9c09-4a18-a4c8-9c402c41ba77",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 126.97465122082835,
+            "y": 384.31839758932341
+          },
+          "nodeIndex": "transacoes",
+          "nodeLineageTag": "a1bbd2ec-383a-45ee-a183-7a1c19eb6ed7",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 70.955543900968792,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}
